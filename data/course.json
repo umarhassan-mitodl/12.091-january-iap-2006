@@ -1,0 +1,57 @@
+{
+  "term": "January IAP",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geochemistry"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ],
+    [
+      "Health and Medicine",
+      "Biomedicine"
+    ],
+    [
+      "Health and Medicine",
+      "Cellular and Molecular Medicine"
+    ]
+  ],
+  "legacy_uid": "97bfc200-d088-b46c-551e-70bf6eb5cadd",
+  "instructors": {
+    "content": [
+      "5b2ee345-d759-0575-5f10-76db94266de7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c0a7a98f-f5bb-e1b5-9173-eb0ae802fd46",
+    "website": "12-091-medical-geology-geochemistry-an-exposure-january-iap-2006"
+  },
+  "course_title": "Medical Geology/Geochemistry: An Exposure",
+  "course_description": "This course introduces students to the basic concepts of Medical Geology/Geochemistry. Medical Geology/Geochemistry is the study of the interaction between abundances of elements and isotopes and the health of humans and plants.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.091",
+  "course_image_thumbnail": {
+    "content": "c9603580-cf98-ecac-097c-ee582e8c3b31",
+    "website": "12-091-medical-geology-geochemistry-an-exposure-january-iap-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "25dfce50-470f-4d53-baa1-36c09ea1b35f",
+  "site_short_id": "12.091-january-iap-2006",
+  "site_url_path": "courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006",
+  "title": "Course Metadata"
+}

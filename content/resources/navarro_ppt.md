@@ -5,6 +5,8 @@ description: This resource is slide presentation on U.S. Environmental Health Ef
 file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/9bfe98712617d3ef5439605ff32a75cd_navarro_ppt.pdf
 file_size: 403041
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource include notes on Radon.
 file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/aba043696bae3a315b1efd259a89c1d4_session2b.pdf
 file_size: 1913924
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

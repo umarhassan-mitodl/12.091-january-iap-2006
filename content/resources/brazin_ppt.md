@@ -5,6 +5,8 @@ description: This resource is a slide presentation on Chlorine and Its Consequen
 file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/9ea3df49f9ed6363311e6eb35c2c89ca_brazin_ppt.pdf
 file_size: 2705222
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

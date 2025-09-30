@@ -5,6 +5,8 @@ description: This resource include notes on Mining and Resource Extraction, Ener
 file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/ddcb8398e803ae32b57e1b7ed4cf7acc_tenorm_sources.pdf
 file_size: 140836
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

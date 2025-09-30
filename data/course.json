@@ -36,6 +36,7 @@
     "website": "12-091-medical-geology-geochemistry-an-exposure-january-iap-2006"
   },
   "course_title": "Medical Geology/Geochemistry: An Exposure",
+  "hide_download": true,
   "course_description": "This course introduces students to the basic concepts of Medical Geology/Geochemistry. Medical Geology/Geochemistry is the study of the interaction between abundances of elements and isotopes and the health of humans and plants.\n",
   "department_numbers": [
     "12"
@@ -46,6 +47,7 @@
     "content": "c9603580-cf98-ecac-097c-ee582e8c3b31",
     "website": "12-091-medical-geology-geochemistry-an-exposure-january-iap-2006"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Written Assignments with Examples"

@@ -4,8 +4,6 @@ description: This resource is a report on Iodine by Christopher Love.
 file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/451a4a6f26d8fe6d482a7fc117313096_love.pdf
 file_size: 43194
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

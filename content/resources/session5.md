@@ -5,8 +5,6 @@ description: This resource include notes on Dust Storms - Health Effects. Also i
 file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/7278735d2ae469e3421222bdb09f5edd_session5.pdf
 file_size: 4646432
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

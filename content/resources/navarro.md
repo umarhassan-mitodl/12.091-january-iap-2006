@@ -5,8 +5,6 @@ description: This resource is a report on U.S. Environmental Health Effects and 
 file: /courses/12-091-medical-geology-geochemistry-an-exposure-january-iap-2006/4b507b835737307e0103a5472cb82502_navarro.pdf
 file_size: 125340
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
